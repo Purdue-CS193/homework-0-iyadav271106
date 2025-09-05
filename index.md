@@ -1,3 +1,11 @@
+# Ishaan Yadav's First CS193 Homework
+
+- I like how this class is aimed at assisting students to succeed within Computer Science
+- I like how the Instructors are current students who have completed similar classes beforehand
+- This class will also be helpful for future courses and projects
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
